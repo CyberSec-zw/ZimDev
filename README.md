@@ -1,4 +1,5 @@
-# ZimDev :like:
+# ZimDev 
+:like:
 A social platform for all software developers and engineers 
 
 ZimDive aimes to bring all developers and engineers together and
